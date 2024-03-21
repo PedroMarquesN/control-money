@@ -5,15 +5,78 @@
       "description": "Desenvolvimento de Site",
       "type": "income",
       "category": "Venda",
-      "price": "14000",
+      "price": 14000,
       "createdAt": "'2024-03-21T16:50:28.831Z'"
     },
     {
-      "id": 1,
+      "id": 2,
+      "description": "Consultoria em Marketing",
+      "type": "income",
+      "category": "Serviços",
+      "price": 8000,
+      "createdAt": "2024-03-21T17:20:00.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel do Escritório",
+      "type": "outcome",
+      "category": "Despesas Fixas",
+      "price": 3000,
+      "createdAt": "2024-03-21T18:15:00.000Z"
+    },
+    {
+      "id": 4,
+      "description": "Venda de Produtos",
+      "type": "income",
+      "category": "Comércio",
+      "price": 2500,
+      "createdAt": "2024-03-21T19:30:00.000Z"
+    },
+    {
+      "id": 5,
+      "description": "Conta de Luz",
+      "type": "outcome",
+      "category": "Despesas de Energia",
+      "price": 150,
+      "createdAt": "2024-03-21T20:45:00.000Z"
+    },
+    {
+      "id": 6,
+      "description": "Manutenção do Veículo",
+      "type": "outcome",
+      "category": "Despesas de Transporte",
+      "price": 350,
+      "createdAt": "2024-03-21T21:10:00.000Z"
+    },
+    {
+      "id": 7,
+      "description": "Freelancer de Design Gráfico",
+      "type": "income",
+      "category": "Serviços",
+      "price": 1200,
+      "createdAt": "2024-03-21T22:25:00.000Z"
+    },
+    {
+      "id": 8,
+      "description": "Compra de Material de Escritório",
+      "type": "outcome",
+      "category": "Despesas de Escritório",
+      "price": 200,
+      "createdAt": "2024-03-21T23:40:00.000Z"
+    },
+    {
+      "id": 9,
+      "description": "Receita de Consultoria Financeira",
+      "type": "income",
+      "category": "Serviços",
+      "price": 5000,
+      "createdAt": "2024-03-22T00:55:00.000Z"
+    },    {
+      "id": 10,
       "description": "Hamburguer",
       "type": "outcome",
       "category": "Alimentação",
-      "price": "85",
+      "price": 85,
       "createdAt": "'2024-03-21T16:30:28.831Z'"
     }
   ],
