@@ -1,0 +1,21 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": "14000",
+      "createdAt": "'2024-03-21T16:50:28.831Z'"
+    },
+    {
+      "id": 1,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": "85",
+      "createdAt": "'2024-03-21T16:30:28.831Z'"
+    }
+  ],
+  "delayedEndpoint": { "delay": 2000 }
+}
